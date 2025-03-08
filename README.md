@@ -12,6 +12,12 @@
 ## Criar um Commit
 `git commit -m "mensagem"` → Registra as alterações adicionadas no repositório.
 
+## Restaura um arquivo modificado
+`git restore arquivo"` → Restaura o arquivo não commitado
+
+## Reseta um arquivo
+`git reset arquivo"` → Tira o arquivo do commit depois de ele ter sido adicionado com `git add`
+
 ## Visualizar o Histórico de Commits
 `git log` → Exibe o histórico de commits do repositório.
 

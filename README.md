@@ -24,11 +24,14 @@
 ## Criar e Mudar para uma Nova Branch
 `git checkout -b` → Cria uma nova branch e muda para ela.
 
+## Merge de Branches
+`git merge nome-da-branch` → Mescla as alterações de uma branch com a branch atual.
+
+## Clonar um Repositório
+`git clone {link do git}` → Cria uma cópia de um repositório remoto no seu computador.
+
 ## Enviar Alterações para o Repositório Remoto
 `git push` → Envia commits locais para um repositório remoto.
 
 ## Baixar e Atualizar o Repositório Local
 `git pull` → Atualiza o repositório local com as alterações do repositório remoto.
-
-## Clonar um Repositório
-`git clone {link do git}` → Cria uma cópia de um repositório remoto no seu computador.
